@@ -1,0 +1,11 @@
+.banner{
+    width: 100%;
+    height: 300px;
+    background-image: url("https://effuture.com/assets/images/inceleme/fff.jpg");
+
+}.banner-image img{
+    width: 100%;
+    border-radius: 30px;
+    opacity: 0.8;
+    z-index: -10;
+}

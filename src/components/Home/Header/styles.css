@@ -1,0 +1,70 @@
+.home-header {
+  margin-right: 200px;
+  margin-bottom: 50px;
+}
+
+.home-header h2 {
+  color: #0080ff;
+  font-size: 2rem;
+}
+
+.home-header h1 {
+  font-size: 3rem;
+  color: #0f52ba;
+  margin-bottom: 1rem;
+}
+
+.home-header h1 span {
+  color: #b0c4de;
+}
+
+.home-header p {
+  color: #a9a9a9;
+  font-weight: 500;
+}
+.nav{
+  position:fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+ul{
+  text-align:center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+li{
+display: inline-block;
+
+
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+  margin-top: 15px;
+
+}
+li a{
+  display:block;
+  color:black;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color:orange;
+
+}.Logo{
+  font-size: 3rem;
+  display: block;
+  float: left;
+  text-align:center;
+  padding:14px 16px;
+}.Logo span{
+  color: red;
+
+}

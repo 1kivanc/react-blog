@@ -1,0 +1,14 @@
+.login-form{
+    height: 350px;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #EFEAD8;
+    width: 50%;
+    margin: auto;
+
+}.login-form h1{
+    text-align: center;
+}.login-form a{
+    font-size: 0.9rem;
+
+}
